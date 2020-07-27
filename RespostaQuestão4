@@ -1,0 +1,1 @@
+Atualmente utilizio JWT (Json Web Token) verificando a autenticidade do token assim como a permissão do usuário, essa validação faço via Decorate evitando alguns possiveis retrabalhos.
