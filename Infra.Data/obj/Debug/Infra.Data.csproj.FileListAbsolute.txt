@@ -1,0 +1,11 @@
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\bin\Debug\Infra.Data.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\bin\Debug\Infra.Data.pdb
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\bin\Debug\Dapper.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\bin\Debug\Dominio.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\bin\Debug\Dominio.pdb
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\bin\Debug\Dapper.xml
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\obj\Debug\Infra.Data.csprojAssemblyReference.cache
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\obj\Debug\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\obj\Debug\Infra.Data.csproj.CopyComplete
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\obj\Debug\Infra.Data.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Infra.Data\obj\Debug\Infra.Data.pdb

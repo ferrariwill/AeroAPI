@@ -1,0 +1,9 @@
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\bin\Debug\Dominio.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\bin\Debug\Dominio.pdb
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\bin\Debug\Dapper.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\bin\Debug\Dapper.xml
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\obj\Debug\Dominio.dll
+C:\Users\WillAleSo\source\repos\AeroAPI\Dominio\obj\Debug\Dominio.pdb
